@@ -1,5 +1,11 @@
 # markdown-to-jsx
 
+## 7.7.3
+
+### Patch Changes
+
+- 1ea00bb: Adjust table row parsing to better handle inline syntaxes and improve performance.
+
 ## 7.7.2
 
 ### Patch Changes
